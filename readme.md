@@ -1,6 +1,6 @@
 Website design for Kazi Nazurl Islam, The national Poet of Bangladesh.
 
-link: 
+link: https://kazi-nazrul-islam-padmabhushan.netlify.app/
 
 Tech used:
 
