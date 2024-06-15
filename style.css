@@ -1,0 +1,84 @@
+body{
+    font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: light 300;
+  font-style: normal;
+}
+nav{
+    background-color: #1B1C1D;
+    color: white;
+}
+.bg{
+    background-color: #1B1C1D;
+    color: white;
+}
+
+header{
+    background-color: #1B1C1D;
+    color: whitesmoke;
+}
+
+h4 {
+    overflow: hidden;
+    text-align: center;
+  }
+  
+  h4::before,
+  h4::after {
+    background-color: #000;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    position: relative;
+    vertical-align: middle;
+    width: 50%;
+  }
+  
+  h4::before {
+    right: 0.5em;
+    margin-left: -50%;
+  }
+  
+  h4::after {
+    left: 0.5em;
+    margin-right: -50%;
+  }
+
+  .poetry, .awards{
+    font-size: small;
+  }
+
+  .about{
+    font-size: small;
+  }
+  .quote{
+    font-size: large;
+  }
+
+  footer {
+    background-color: #1B1C1D;
+    color: white;
+    font-size: small;
+  }
+
+  span{
+    
+    opacity: 0.7;
+  }
+  .wiki{
+    background-color: gray !important;
+    font-weight: bold !important;
+    color: black !important;
+  }
+  .videos{
+    font-weight: bold !important;
+    color : white !important;
+  }
+  .amazon{
+    background-color: orange !important;
+    color: white !important;
+    font-weight: bold !important;
+  }
+  a{
+    text-decoration: none !important;
+  }
